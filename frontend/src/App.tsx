@@ -14,6 +14,7 @@ function App() {
       <div className='w-full h-full flex items-center justify-center flex-col gap-5 absolute top-40'>
         <ComputerCardContainer />
         <UserCardContainer />
+        
       </div>
     </div>
   )
